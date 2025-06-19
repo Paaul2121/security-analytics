@@ -3,7 +3,6 @@
     "defaultSchema": "log_summary",
     "assertionSchema": "log_summary_assertions",
     "defaultDatabase": "[PROJECT_ID]",
-    "useRunCache": false,
     "defaultLocation": "US",
     "vars": {
         "logs_export_project": "[LOGS_PROJECT_ID]",
